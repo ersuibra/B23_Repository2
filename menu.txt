@@ -1,15 +1,16 @@
 
-Coffe Menu
-Coffee  	2.99  150cal
-Donots  	4.99  1500cal
-Mocha 		3.15 200 cal 
-Expresso 	3.25 250 cal
-Ice Coffee 	2.88  300 cal 
-
-Lunch Menu
-Bagels		$2.25	200Cal
-Donuts		$1.25	300Cal
+DRINK Menu
+Coffee  	2.99  	150cal
+Donots  	4.99 	450cal
+Mocha 		3.15 	200cal 
+Expresso 	3.25 	250cal
+Ice Coffee 	2.88  	300cal 
 Lemonade	$2.25	200Cal
 Tea			$1.25	300Cal
-Chips		$2.25	200Cal
+
+LUNCH Menu
+Bagels		$2.25	200Cal
+Donuts		$1.25	300Cal
+Chips		$2.25	500Cal
 Pizza		$3.25	300Cal
+Omlette		$3.25	300Cal
