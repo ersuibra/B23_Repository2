@@ -6,4 +6,12 @@ Expresso 	3.25 250 cal
 
 Ice Coffee 2.88  300 cal 
 
-jhasgdhjas
+
+Coffe		$1.5	100Cal
+Bagels		$2.25	200Cal
+Donuts		$1.25	300Cal
+
+Lemonade	$2.25	200Cal
+Tea			$1.25	300Cal
+Chips		$2.25	200Cal
+Pizza		$3.25	300Cal
