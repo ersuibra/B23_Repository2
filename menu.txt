@@ -14,3 +14,8 @@ Donuts		$1.25	300Cal
 Chips		$2.25	500Cal
 Pizza		$3.25	300Cal
 Omlette		$3.25	300Cal
+Burger		$5.25	300Cal
+Wrap		$4.25	300Cal
+Burritto	$5.25	300Cal
+Doner		$6.25	300Cal
+Shish BBQ	$9.25	300Cal
