@@ -1,0 +1,7 @@
+SALAD Menu
+Potato  	    2.99  	150cal
+Chicken 		  3.15 	  200cal 
+Fish        	3.25 	  250cal
+Ceaser 	      2.88  	300cal 
+Lemonade	    2.25	  200Cal
+Tea			      1.25	  300Cal
