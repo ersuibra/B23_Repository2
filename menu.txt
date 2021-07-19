@@ -1,7 +1,6 @@
 
 DRINK Menu
 Coffee  	2.99  	150cal
-Donots  	4.99 	450cal
 Mocha 		3.15 	200cal 
 Expresso 	3.25 	250cal
 Ice Coffee 	2.88  	300cal 
@@ -19,3 +18,11 @@ Wrap		$4.25	300Cal
 Burritto	$5.25	300Cal
 Doner		$6.25	300Cal
 Shish BBQ	$9.25	300Cal
+Rice 		$2.25	300Cal
+Salmon		$9.25	300Cal
+Tuna		$6.25	300Cal
+Steak		$9.25	300Cal
+Soup		$4.25	300Cal
+Samsa		$2.25	300Cal
+
+
